@@ -1,9 +1,8 @@
 <div align="center">
-  <!-- GIF -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4479A1&center=true&vCenter=true&width=600&lines=SELECT+*+FROM+master_data;Automatizando+rotinas+com+Python...;Limpando+bases+caóticas...;Garantindo+a+Single+Source+of+Truth." alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4479A1&center=true&vCenter=true&width=600&lines=SELECT+*+FROM+master_data;Automatizando+rotinas+com+Python...;Limpando+bases+caóticas...;Garantindo+a+Single+Source+of+Truth." alt="Typing Animation" />
   
   <h1>👨‍💻 Gabriel Espake</h1>
-  <p><b>Analista de Dados | Analista de Master Data | SQL | Python | Power BI | Automação</b></p>
+  <p><b>Analista de Dados | Master Data Management | Automação</b></p>
 </div>
 
 ---
