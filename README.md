@@ -1,5 +1,5 @@
 # 👨‍💻 Gabriel Espake
-**Analista de Dados | Master Data Management | Automação**
+**Analista de Dados | Analista de Master Data | SQL | Python | Power BI | Automação**
 
 Profissional focado em governança, qualidade e integridade de bases complexas. Minha especialidade é transformar bases operacionais caóticas e fragmentadas em dados limpos, confiáveis e estruturados para a tomada de decisão rápida e segura.
 
