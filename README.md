@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4479A1&center=true&vCenter=true&width=600&lines=SELECT+*+FROM+master_data;Automatizando+rotinas+com+Python...;Limpando+bases+caóticas...;Garantindo+a+Single+Source+of+Truth." alt="Typing Animation" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4479A1&center=true&vCenter=true&width=600&lines=SELECT+*+FROM+master_data;Automatizando+rotinas+com+Python...;Limpando+bases+caoticas...;Garantindo+a+Single+Source+of+Truth" alt="Typing SVG" />
+  </a>
   
   <h1>👨‍💻 Gabriel Espake</h1>
   <p><b>Analista de Dados | Master Data Management | Automação</b></p>
