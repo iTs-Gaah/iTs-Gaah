@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" />
+  <!-- GIF de matriz de dados rolando -->
+  <img src="https://media.giphy.com/media/LUIvcbR6yomaQ/giphy.gif" width="400" />
   
   <h1>👨‍💻 Gabriel Espake</h1>
   <p><b>Analista de Dados | Analista de Master Data | SQL | Python | Power BI | Automação</b></p>
@@ -14,7 +15,7 @@ Profissional focado em governança, qualidade e integridade de bases complexas. 
 * **Automação de Processos:** Desenvolvimento de bots e scripts em Python para aniquilar rotinas braçais, conectar APIs e mitigar falhas humanas na operação.
 * **Governança:** Estruturação de pipelines e dashboards com controle de acesso rigoroso para garantir uma *Single Source of Truth* (Fonte Única de Verdade).
 
-### 🛠️ Minhas Armas:
+### 🛠️ Minhas Ferramentas:
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
