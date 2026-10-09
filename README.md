@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- GIF de matriz de dados rolando -->
-  <img src="https://media.giphy.com/media/LUIvcbR6yomaQ/giphy.gif" width="400" />
+  <!-- GIF -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4479A1&center=true&vCenter=true&width=600&lines=SELECT+*+FROM+master_data;Automatizando+rotinas+com+Python...;Limpando+bases+caóticas...;Garantindo+a+Single+Source+of+Truth." alt="Typing Animation" />
   
   <h1>👨‍💻 Gabriel Espake</h1>
   <p><b>Analista de Dados | Analista de Master Data | SQL | Python | Power BI | Automação</b></p>
@@ -23,6 +23,7 @@ Profissional focado em governança, qualidade e integridade de bases complexas. 
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 ### 📊 Meus Dados no GitHub:
